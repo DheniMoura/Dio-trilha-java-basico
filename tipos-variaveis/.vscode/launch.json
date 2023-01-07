@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch aboutMe2",
+            "request": "launch",
+            "mainClass": "edu.dhenifer.argumentos.aboutMe2",
+            "projectName": "tipos-variaveis_833e3607"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch aboutMe",
+            "request": "launch",
+            "mainClass": "edu.dhenifer.argumentos.aboutMe",
+            "projectName": "tipos-variaveis_833e3607"
+        },
+        {
+            "type": "java",
+            "name": "Launch usuario",
+            "request": "launch",
+            "mainClass": "edu.dhenifer.metodos.usuario",
+            "projectName": "tipos-variaveis_833e3607"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadorRelacional",
+            "request": "launch",
+            "mainClass": "edu.dhenifer.operadores.operadorRelacional",
+            "projectName": "tipos-variaveis_833e3607"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadorTernario",
+            "request": "launch",
+            "mainClass": "edu.dhenifer.operadores.operadorTernario",
+            "projectName": "tipos-variaveis_833e3607"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.dhenifer.tipos_variaveis.TiposVariaveis",
+            "projectName": "tipos-variaveis_833e3607"
+        }
+    ]
+}
